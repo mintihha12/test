@@ -1,0 +1,6 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -2,3 +2,4 @@
+ 
+ edit test from sourcetree clone
+ 
++edit from web
